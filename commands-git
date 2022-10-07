@@ -5,3 +5,6 @@ pour push un dossier:
 git add tontrucàenvoyer
 git commit -m "tontexte"
 git push https://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@github.com/matteo-salvadori/tontrucàajouter.git
+
+pour pull
+git pull https://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@github.com/matteo-salvadori/tontrucàajouter.git
